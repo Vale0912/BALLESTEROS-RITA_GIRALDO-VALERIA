@@ -1,4 +1,4 @@
-package com.backend.integrador.Service;
+package com.backend.integrador.Service; //recuerden que el paquete se nombra en minuscula
 
 import com.backend.integrador.dao.IDao;
 import com.backend.integrador.entity.Odontologo;

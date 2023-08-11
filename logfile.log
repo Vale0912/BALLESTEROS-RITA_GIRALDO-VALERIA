@@ -58,3 +58,25 @@ Id: 5
 Nombre: 'DAVID
 Apellido: 'GUTIERREZ
 Matricula: 7654]
+[2023-08-11 11:42:07] [ INFO ] [OdontologoDaoH2:113] Listado de todos los odontologos: [
+Id: 1
+Nombre: 'CARLOS
+Apellido: 'JIMENEZ
+Matricula: 1234, 
+Id: 2
+Nombre: 'LUCIANA
+Apellido: 'MURGA
+Matricula: 3210, 
+Id: 3
+Nombre: 'VICTOR
+Apellido: 'CALABRO
+Matricula: 4567, 
+Id: 4
+Nombre: 'SERGIO
+Apellido: 'REGALADO
+Matricula: 8910]
+[2023-08-11 11:42:07] [ INFO ] [OdontologoDaoH2:42]  Odontologo guardado: 
+Id: 5
+Nombre: 'DAVID
+Apellido: 'GUTIERREZ
+Matricula: 7654
